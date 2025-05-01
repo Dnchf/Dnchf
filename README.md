@@ -37,7 +37,7 @@ Olá! Eu sou um entusiasta da tecnologia, apaixonado por desenvolvimento de soft
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](www.linkedin.com/in/danilo-chagas-74b260305)
-- 🌐 [Instagram]([https://www.seusite.com](https://www.instagram.com/dn.chf?igsh=MXE5aHN3MTJobjUzMg==))
+- 🌐 [Email](danilochagasfonseca3@gmail.com)
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
