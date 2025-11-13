@@ -19,9 +19,8 @@ Olá! Eu sou um entusiasta da tecnologia, apaixonado por desenvolvimento de soft
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Html 5](https://img.shields.io/badge/-Html5-880a1f?style=flat&logo=Html5)
+
+<img alt="VS Code" src="https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /> <img alt="Html" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" /> <img alt="Css" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" /> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
 
 ---
 
@@ -36,8 +35,14 @@ Olá! Eu sou um entusiasta da tecnologia, apaixonado por desenvolvimento de soft
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/danilo-chagas-74b260305)
-- 🌐 [Email](danilochagasfonseca3@gmail.com)
+<a href="https://www.linkedin.com/in/danilo-chagas-74b260305" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
+<a href="mailto:danilochagasfonseca3@gmail.com" target="_blank">
+  <img alt="E-mail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
+
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
