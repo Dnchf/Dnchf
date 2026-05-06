@@ -22,7 +22,7 @@
 
 </div>
 
----
+
 
 ## 🕷️ Sobre Mim
 
@@ -53,7 +53,7 @@ me = Danilo()
 me.say_hi()
 ```
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -63,7 +63,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Python-2e1065?style=for-the-badge&logo=python&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/JavaScript-2e1065?style=for-the-badge&logo=javascript&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Java-2e1065?style=for-the-badge&logo=openjdk&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/PHP-2e1065?style=for-the-badge&logo=php&logoColor=a855f7"/>
+
 
 ### 🎨 Frontend
 <img src="https://img.shields.io/badge/HTML5-2e1065?style=for-the-badge&logo=html5&logoColor=a855f7"/>
@@ -85,7 +85,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 ## 🌌 Profile 3D Contributions
 
@@ -102,29 +102,9 @@ me.say_hi()
 
 ![Profile 3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
-> *🛠️ Para ativar: adicione a GitHub Action abaixo no seu repositório.*
 
 </div>
 
-<details>
-<summary>⚙️ <strong>Como configurar o Profile 3D Contrib (clique para expandir)</strong></summary>
-
-<br/>
-
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dnchf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d0021&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&border_color=5b21b6"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnchf&layout=compact&langs_count=7&theme=radical&bg_color=0d0021&title_color=a855f7&text_color=e9d5ff&border_color=5b21b6"/>
-
-</div>
 
 ---
 
@@ -171,29 +151,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🗡️ Projetos em Destaque
-
-<div align="center">
-
-[![Projeto-Padaria](https://github-readme-stats.vercel.app/api/pin/?username=Dnchf&repo=Projeto-Padaria&theme=radical&hide_border=false&bg_color=0d0021&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&border_color=5b21b6)](https://github.com/Dnchf/Projeto-Padaria)
-&nbsp;
-[![Imersao-Spotify-Alura](https://github-readme-stats.vercel.app/api/pin/?username=Dnchf&repo=Imers-o-Spotify-Alura&theme=radical&hide_border=false&bg_color=0d0021&title_color=a855f7&icon_color=7c3aed&text_color=e9d5ff&border_color=5b21b6)](https://github.com/Dnchf/Imers-o-Spotify-Alura)
-
-</div>
-
----
-
-## 🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dnchf/Dnchf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 🌐 Onde me encontrar
 
