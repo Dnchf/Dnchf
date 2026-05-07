@@ -7,11 +7,6 @@
 <!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a0050,30:3d0080,60:5b21b6,100:1a0050&text=Danilo%20Ch.%20Fonseca&fontAlignY=42&fontColor=d8b4fe&fontSize=38&fontStyle=bold&animation=fadeIn&desc=Full%20Stack%20Developer%20in%20progress&descAlignY=62&descSize=16&descAlign=50" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🕷️;Future+Full+Stack+Developer;Web+Designer+%26+Problem+Solver;One+commit+at+a+time..." alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- STATUS BADGES -->
@@ -20,14 +15,11 @@
 ![Status](https://img.shields.io/badge/Status-Building%20the%20Future-a855f7?style=flat-square&labelColor=1a0050)
 ![Brasil](https://img.shields.io/badge/Origin-Brasil%20🇧🇷-7c3aed?style=flat-square&labelColor=2e1065)
 
-</div>
-
 
 
 ## 🕷️ Sobre Mim
 
-
-> *"Anyone can wear the mask — but only you can write your own code."*
+> *"Our place in the Sun has always been warmer."*
 
 Fala, eu sou o **Danilo Ch. Fonseca**, estudante de **Análise e Desenvolvimento de Sistemas**, movido pela paixão por tecnologia e pela vontade de transformar ideias em soluções reais.
 
@@ -54,7 +46,6 @@ me.say_hi()
 ```
 
 
-
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -63,19 +54,9 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Python-2e1065?style=for-the-badge&logo=python&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/JavaScript-2e1065?style=for-the-badge&logo=javascript&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Java-2e1065?style=for-the-badge&logo=openjdk&logoColor=a855f7"/>
-
-
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/HTML5-2e1065?style=for-the-badge&logo=html5&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/CSS3-2e1065?style=for-the-badge&logo=css3&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/React-2e1065?style=for-the-badge&logo=react&logoColor=a855f7"/>
-
-### 🗄️ Backend & Banco de Dados
-<img src="https://img.shields.io/badge/MySQL-2e1065?style=for-the-badge&logo=mysql&logoColor=a855f7"/>
-<img src="https://img.shields.io/badge/Node.js-2e1065?style=for-the-badge&logo=node.js&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/PHP-2e1065?style=for-the-badge&logo=php&logoColor=a855f7"/>
 
 ### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-2e1065?style=for-the-badge&logo=amazon-aws&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Git-2e1065?style=for-the-badge&logo=git&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/GitHub-2e1065?style=for-the-badge&logo=github&logoColor=a855f7"/>
 
@@ -83,30 +64,13 @@ me.say_hi()
 <img src="https://img.shields.io/badge/VSCode-2e1065?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Linux-2e1065?style=for-the-badge&logo=linux&logoColor=a855f7"/>
 
-</div>
-
-
-
-## 🌌 Profile 3D Contributions
-
-<!-- 
-  ⚙️ SETUP NECESSÁRIO:
-  Para ativar o 3D Contributions, crie o arquivo:
-  .github/workflows/profile-3d.yml
-  com o conteúdo abaixo e faça um commit no seu repositório Dnchf/Dnchf.
-  O gráfico será gerado automaticamente todo dia às 00:00 UTC.
-  Veja o guia completo em: https://github.com/yoshi389111/github-profile-3d-contrib
--->
-
-<div align="center">
-
-![Profile 3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
-
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-2e1065?style=for-the-badge&logo=html5&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/CSS3-2e1065?style=for-the-badge&logo=css3&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/React-2e1065?style=for-the-badge&logo=react&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Node.js-2e1065?style=for-the-badge&logo=node.js&logoColor=a855f7"/>
 
 </div>
-
-
----
 
 ## 🔥 Streak — Consistência é o Superpoder
 
@@ -116,7 +80,16 @@ me.say_hi()
 
 </div>
 
----
+
+## 🌌 Profile 3D Contributions
+
+<div align="center">
+
+![Profile 3D Contrib](https://raw.githubusercontent.com/Dnchf/Dnchf/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+
 
 ## 📈 Mapa de Atividade
 
@@ -126,28 +99,13 @@ me.say_hi()
 
 </div>
 
----
+
 
 ## 🏆 Troféus
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dnchf&theme=radical&no-frame=false&column=7&margin-w=5&no-bg=false" alt="Trophies" />
-
-</div>
-
----
-
-## 🕯️ Educação
-
-<div align="center">
-
-| &nbsp; | Curso | Instituição | Status |
-|:------:|:------|:-----------:|:------:|
-| 🟣 | Análise e Desenvolvimento de Sistemas | — | 🔄 Em andamento |
-| 🟣 | AWS Tech Journey | Santander | 🔄 Em andamento |
-| ✅ | Microsoft AI-900 Certification | Microsoft | ✅ Completo |
-| ✅ | GenAI & Data Bootcamp | DIO | ✅ Completo |
 
 </div>
 
@@ -162,11 +120,9 @@ me.say_hi()
 
 </div>
 
----
-
 <div align="center">
 
-*🕷️ &nbsp; "Qualquer um pode usar a máscara. Mas só você pode escrever o seu próprio código." &nbsp; 🕷️*
+*🕷️ &nbsp; "Nosso lugar ao Sol sempre foi mais quente." &nbsp; 🕷️*
 
 <br/>
 
